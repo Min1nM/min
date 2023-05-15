@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="some_id">Пропустить</string>
+    <string name="some_id0">Пропустить</string>
+    <string name="some_id1">Экспресс сбор и получение проб</string>
+    <string name="some_id2">Анализы</string>
+    <string name="some_id3">Уведомления</string>
+    <string name="some_id4">Вы быстро узнаете о результатах</string>
+    <string name="some_id5">Мониторинг</string>
+    <string name="some_id6">Наши врачи всегда наблюдают
+за вашими показателями здоровья</string>
+    <string name="some_id7">Завершить</string>
+
+</resources>
